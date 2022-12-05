@@ -10,7 +10,9 @@
 
 ## Lists
 
-## Work with pictures
+## Work with images
+
+Чтобы вставить  изображение в текст, достаточно написать следующее: ![Привет это код](code.jpeg)
 
 ## Links
 
